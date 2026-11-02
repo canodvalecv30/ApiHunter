@@ -68,7 +68,7 @@ url = "2"
 jsonpath-rust = "0.3"
 
 # Random
-rand = "0.8"
+rand = "0.10"
 
 # Async utilities
 futures = "0.3"
